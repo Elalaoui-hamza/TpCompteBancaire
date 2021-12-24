@@ -1,6 +1,6 @@
 # Project ma.emsi/TpCompteBancaire
 
-Steps to run this project:
+Steps to run this project :
 
 1. Start your Docker daemon
 2. Execute `./buildAndRun.sh` (Linux/MacOs) or `buildAndRun.bat` (Windows)
